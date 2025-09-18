@@ -1,6 +1,6 @@
 # CodeGen
 
-A simple code generation tool for creating JavaScript class templates.
+A simple code generation tool for creating JavaScript class templates throunght good practices.
 
 ## Features
 
