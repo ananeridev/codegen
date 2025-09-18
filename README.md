@@ -2,6 +2,7 @@
 
 A simple code generation tool for creating JavaScript class templates throunght good practices.
 
+
 ## Features
 
 - **Repository Template**: Generates CRUD repository classes
