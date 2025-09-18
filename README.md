@@ -1,6 +1,8 @@
 # CodeGen
 
-A simple code generation tool for creating JavaScript class templates throunght good practices.
+A simple code generation tool for creating JavaScript class templates through good practices by using TDD and integration tests.
+
+<img width="702" height="311" alt="Screenshot 2025-09-18 at 15 43 54" src="https://github.com/user-attachments/assets/a6419ee2-0520-43ab-a4ed-746cc5984b24" />
 
 
 ## Features
